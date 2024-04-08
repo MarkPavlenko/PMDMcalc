@@ -50,3 +50,5 @@ elif operation == " *":
 
 else:
     print("Your symbol is not supported in PMDMcalc. Please try again with another symbol.")
+
+    
