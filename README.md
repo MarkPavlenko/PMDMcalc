@@ -4,9 +4,9 @@ PMDMcalc is a calculator with made with Python to calculate some easy calculatio
 
 ## Installation
 
-Download the source code from the repo.
+'brew install pmdm' will install the PMDMcalc on your computer.
 ## Usage
-+ is plus. - is minus. * is multiply. / is divide.
++ is plus. - is minus. * is multiply. / is divide. Use the PMDM command to start the calculator. Make sure you installed the HomeBrew package.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
