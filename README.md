@@ -3,7 +3,7 @@
 PMDMcalc is a calculator with made with Python to calculate some easy calculations. 
 
 ## Installation
-Go ahead on [My website](markpavlenko.github.io/PMDMcalc) and install the .dmg file with readme.md and PMDMcalc.dmg. Make sure you have python3 installed. (don't use python or python2 commands. Use python3)
+Go ahead on [My website](https://markpavlenko.github.io/PMDMcalc/) and install the .dmg file with readme.md and PMDMcalc.dmg. Make sure you have python3 installed. (don't use python or python2 commands. Use python3)
 ## Usage
 + is plus. - is minus. * is multiply. / is divide. In the terminal, type python3 /usr/local/bin/pmdm.py. It will start the PMDMcalc directly in your terminal. Install the .pkg, execute the command, done!
 ## License
